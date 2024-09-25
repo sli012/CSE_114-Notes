@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MathFunc_Characters_StringAPIs {
+public class wk4_MathFuncCharactersStringAPIs {
 
 	public static void main(String[] args) {
 		//10-50
