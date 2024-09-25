@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SelectionNotes {
+public class WK3_SelectionNotes {
 
 	public static void main(String[] args) {
 	
