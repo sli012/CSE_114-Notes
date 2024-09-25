@@ -1,5 +1,5 @@
 
-public class Wk2_ElementaryProgNotes.java {
+public class Wk2_ElementaryProgNotes {
 
 	public static void main(String[] args) {
 		
