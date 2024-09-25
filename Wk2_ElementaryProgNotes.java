@@ -1,6 +1,5 @@
-package Elementary_prog;
 
-public class Elementary_prog_notes {
+public class Wk2_ElementaryProgNotes.java {
 
 	public static void main(String[] args) {
 		
